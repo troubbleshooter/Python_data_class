@@ -52,6 +52,11 @@ for i in range(1,6):
     if  1 <= i < 5:
         continue    # = skip, comes with IF : and CONTINUE
     print(x)
+    
+x = 0
+for i in range(1,6):
+    x = x + i    # same as x += i
+print(x)
 
 result = 0
 i = 1
