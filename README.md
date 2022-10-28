@@ -1,7 +1,6 @@
-# Python_data_class
+# Python_data_class - Basics of Python
 Recording data analysis process using Python
-##Basics of Python
 
-# Day 1 Python language
+## Day 1 Python language
 
-# Day 2 Python Crawling
+## Day 2 Python Crawling
